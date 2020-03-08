@@ -26,4 +26,4 @@ As explained on [Kaggle](https://www.kaggle.com/c/titanic/data), the data has be
 
 ## Files Description
 - `'The Data'` contains a simple EDA where the feature engineering process is determined;
-- `'0. Methodology'` contains the methodology used to train and compare some machine learning algorithms with untouched data.
+- `'Titanic Competition'` contains the feature engineering, the hyperparameter tuning, the model selection, the predicion and the blending.
